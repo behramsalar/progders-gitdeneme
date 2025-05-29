@@ -1,0 +1,1 @@
+print('programlama ders')
